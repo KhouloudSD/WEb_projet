@@ -1,0 +1,43 @@
+.navbar-custom {
+    background-color: #94a7ae;
+}
+/* Modify brand and text color */
+ 
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #c6e2ff; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.dropdown-item {
+
+    color: rgb(72, 145, 255);
+    color: #c6e2ff; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(251, 104, 104)
+    
+
+}
+.dropdown-item:hover {
+
+    color: rgb(72, 145, 255);
+
+}
+.logo-image{
+    width: 160px;
+    height: 160px;
+    border-radius: 0%;
+    overflow: hidden;
+    padding-top:7px ;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: -40px;
+    margin-right: 40px;
+
+}
+footer{
+    position:absolute;
+    margin-left:50% ;
+
+}
